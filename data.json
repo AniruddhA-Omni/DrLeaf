@@ -27,7 +27,7 @@
     ], 
     "3" : [
         {
-            "name" : "Healthy Apple",
+            "name" : "Healthy",
             "solution1" : "",
             "solution2" : "",
             "solution3" : ""
@@ -35,7 +35,7 @@
     ],  
     "4" : [
         {
-            "name" : "Healthy Blueberry",
+            "name" : "Healthy",
             "solution1" : "",
             "solution2" : "",
             "solution3" : ""
@@ -51,7 +51,7 @@
     ],   
     "6" : [
         {
-            "name" : "Healthy Cherry",
+            "name" : "Healthy",
             "solution1" : "",
             "solution2" : "",
             "solution3" : ""
@@ -115,7 +115,7 @@
     ],
     "14" : [
         {
-            "name" : "Healthy Grapes",
+            "name" : "Healthy",
             "solution1" : "",
             "solution2" : "",
             "solution3" : ""
@@ -139,7 +139,7 @@
     ],
     "17" : [
         {
-            "name" : "Healthy Peach",
+            "name" : "Healthy",
             "solution1" : "",
             "solution2" : "",
             "solution3" : ""
@@ -155,7 +155,7 @@
     ],
     "19" : [
         {
-            "name" : "Healthy Pepper",
+            "name" : "Healthy",
             "solution1" : "",
             "solution2" : "",
             "solution3" : ""
@@ -179,7 +179,7 @@
     ],
     "22" : [
         {
-            "name" : "Healthy Potato",
+            "name" : "Healthy",
             "solution1" : "",
             "solution2" : "",
             "solution3" : ""
@@ -187,7 +187,7 @@
     ],
     "23" : [
         {
-            "name" : "Healthy Raspberry",
+            "name" : "Healthy",
             "solution1" : "",
             "solution2" : "",
             "solution3" : ""
@@ -195,7 +195,7 @@
     ],
     "24" : [
         {
-            "name" : "Healthy Soybean",
+            "name" : "Healthy",
             "solution1" : "",
             "solution2" : "",
             "solution3" : ""
@@ -219,7 +219,7 @@
     ],
     "27" : [
         {
-            "name" : "Healthy Strawberry",
+            "name" : "Healthy",
             "solution1" : "",
             "solution2" : "",
             "solution3" : ""
@@ -229,7 +229,7 @@
         {
             "name" : "Bacterial Spot of Tomato",
             "solution1" : "A plant with bacterial spot cannot be cured.",
-            "solution2" : "Remove symptomatic plants from the field or greenhouse to prevent the spread of bacteria to healthy plants.",
+            "solution2" : "Remove symptomatic plants from the field or greenhouse to prevent the spread of bacteria to Healthy plants.",
             "solution3" : ""
         }
     ],
@@ -299,7 +299,7 @@
     ],
     "37" : [
         {
-            "name" : "Healthy Tomato",
+            "name" : "Healthy",
             "solution1" : "",
             "solution2" : "",
             "solution3" : ""
