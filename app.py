@@ -201,6 +201,9 @@ def description():
     
     return render_template("description.html")
 
+@app.route("/results")
+def soln():
+    return render_template("result.html")
 
 
 app.config["IMAGE_UPLOADS"]=("static\\images\\uploads\\imgs")
