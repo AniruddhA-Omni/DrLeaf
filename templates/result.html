@@ -221,7 +221,7 @@
     <div class="abt" >
         <p class="abtsubhead" style="text-align: center;text-decoration: none; color: crimson;"><b>Prediction Results</b></p>
         {% if disease == "healthy" %}
-        <p class="abtpb">Your Plant is healthy 😃</p>
+        <p class="abtpb">Your Plant is healthy</p>
         {%else%}
         <p class="abtsubhead">Identified disease:</p>
         <p class="abtpb">{{disease}}</p>
@@ -234,7 +234,9 @@
         <p class="abtpb">{{solution3}}</p>
         {%endif%}
     </div>
-
+    <div style="background-color: #198754; padding: 1%; width: 7%; border-radius: 10%; margin-left: 45%; margin-top: 3%;">
+        <a style="text-decoration: none; color: white;" href="/">Home <i class="fas fa-arrow-right"> </i></a>
+    </div>
     <div class="foot">
         &copy DrLeaf 2022
     </div>
