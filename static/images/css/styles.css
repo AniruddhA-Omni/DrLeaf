@@ -21,11 +21,13 @@ nav{
     color: white;
     font-size: 35px;
     line-height: 80px;
-    padding: 0 100px;
+    padding: 0 0 100px 1px ;
     font-weight: bold;
     text-decoration: none;
   }
-  
+  nav a:hover{
+    background-color: transparent;
+  }
   nav ul{
     float: right;
     margin-right: 20px;
