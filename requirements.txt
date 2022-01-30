@@ -2,10 +2,12 @@ certifi==2021.5.30
 click==8.0.3
 colorama==0.4.4
 cycler==0.11.0
+certifi==2020.12.5
 dataclasses @ file:///tmp/build/80754af9/dataclasses_1614363715916/work
 Flask==2.0.2
 Flask-SQLAlchemy==2.5.1
 greenlet==1.1.2
+gunicorn==20.1.0
 importlib-metadata==4.8.3
 itsdangerous==2.0.1
 Jinja2==3.0.3
