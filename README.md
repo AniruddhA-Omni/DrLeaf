@@ -2,8 +2,6 @@
 
 
 ### Important Links
-
-Website: <a href="">Visit DrLeaf</a><br>
 Demonstration: <a href="">Check out</a>  
 
 ## Problem Statement
@@ -40,3 +38,27 @@ Here comes our product **DrLeaf** which not only makes the work easier but also 
   - Tomato
 
 * In this way, our model predicts the disease and also provides treatment methods.
+## <u>Dependencies and Installation</u>
+
+- Python 3.6 and Python 3.7 (Recommend to use [Anaconda](https://www.anaconda.com/download/#linux))
+
+- Optional: NVIDIA GPU + [CUDA](https://developer.nvidia.com/cuda-downloads)
+
+
+### Installation
+
+1. Clone repo
+
+    ```bash
+    git clone https://github.com/AniruddhA-Omni/HoyaHacks2022.git
+    cd GestureControl
+    ```
+2. Install dependent packages
+    ```bash
+    pip install -r requirements.txt
+   ```
+
+### Run the program
+   ```
+   python app.py
+   ``
