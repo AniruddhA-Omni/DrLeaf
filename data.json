@@ -1,0 +1,309 @@
+{
+
+    "0" : [
+
+        {
+            "name" : "Apple Scab",
+            "solution1" : "Water in the evening or early morning hours (avoid overhead irrigation) to give the leaves time to dry out before infection can occur.",
+            "solution2" : "Spread a 3- to 6-inch layer of compost under trees, keeping it away from the trunk, to cover soil and prevent splash dispersal of the fungal spores.",
+            "solution3" : "For best control, spray liquid copper soap early, two weeks before symptoms normally appear."
+        }
+    ],
+    "1" : [
+        {
+            "name" : "Apple Black Rot",
+            "solution1" : "Keep all the fallen debris and dead fruit cleaned up and away from the tree.",
+            "solution2" : "During the winter, check for red cankers and remove them by cutting them out or pruning away the affected limbs at least six inches (15 cm.) beyond the wound.",
+            "solution3" : "General-purpose fungicides, like copper-based sprays and lime sulfur can be used to control black rot."
+        }
+    ],
+     "2" : [
+        {
+            "name" : "Cedar Apple Rust",
+            "solution1" : "Remove galls from infected junipers. (In some cases, juniper plants should be removed entirely.)",
+            "solution2" : "Apply preventative, disease-fighting fungicides labeled for use on apples weekly, starting with bud break, to protect trees from spores being released by the juniper host.",
+            "solution3" : "On juniper, rust can be controlled by spraying plants with a copper solution (0.5 to 2.0 oz/ gallon of water) at least four times between late August and late October."
+        }
+    ], 
+    "3" : [
+        {
+            "name" : "Healthy Apple",
+            "solution1" : "",
+            "solution2" : "",
+            "solution3" : ""
+        }
+    ],  
+    "4" : [
+        {
+            "name" : "Healthy Blueberry",
+            "solution1" : "",
+            "solution2" : "",
+            "solution3" : ""
+        }
+    ],
+    "5" : [
+        {
+            "name" : "Cherry Powdery Mildew",
+            "solution1" : "Maintain a consistent program from shuck fall through harvest.",
+            "solution2" : "Consider post-harvest preventative measures (e.g. application of sulfur, prevent trees from pushing for leaf growth) to obstruct the fungus from overwintering.",
+            "solution3" : "Keep the disease off of the leaves."
+        }
+    ],   
+    "6" : [
+        {
+            "name" : "Healthy Cherry",
+            "solution1" : "",
+            "solution2" : "",
+            "solution3" : ""
+        }
+    ],
+    "7" : [
+        {
+            "name" : "Gray Leaf Spot of Corn",
+            "solution1" : "Crop rotation and tillage reduce survival of the fungus.",
+            "solution2" : "Use Resistant hybrids and inbreds.",
+            "solution3" : "By removing weeds, above ground airflow to the crop is increased, relative humidity is decreased, and it limits infection at the most susceptible times."
+        }
+    ],
+    "8" : [
+        {
+            "name" : "Common Rust of Corn",
+            "solution1" : "Maize rusts are generally controlled by the use of resistant maize hybrids, and by foliar applications of fungicides on sweet corn.",
+            "solution2" : "The use of resistant varieties is the best way of managing rust diseases, two types of resistance exist: partial resistant and qualitative resistance.",
+            "solution3" : "Protectant fungicide e.g., chlorothalonil and mancozeb are recommended: ."
+        }
+    ],
+    "9" : [
+        {
+            "name" : "Northern leaf blight of Corn",
+            "solution1" : "Scouting fields and monitoring local conditions is vital to control this disease.",
+            "solution2" : "Reduce the amount of infected residue left in a field, manage weeds to improve airflow and reduce humidity.",
+            "solution3" : "The use of foliar fungicides for corn can be used to control NCLB"
+        }
+    ],
+    "10" : [
+        {
+            "name" : "Healthy Corn",
+            "solution1" : "",
+            "solution2" : "",
+            "solution3" : ""
+        }
+    ],
+    "11" : [
+        {
+            "name" : "Black rot of Grapes",
+            "solution1" : "Apply sanitation methods to optimally grow grape crops.",
+            "solution2" : "The most common fungicides that prove to be excellent for controlling black rot are Sovran 50WG, Flint 50WG, Abound Flowable (2.08F), and Pristine 38WDG.",
+            "solution3" : "Spray copper once a week."
+        }
+    ],
+    "12" : [
+        {
+            "name" : "Esca (Black Measles) of Grape",
+            "solution1" : "Protect pruning wounds from fungal infections to minimize suspect fungi from colonizing fresh wounds.",
+            "solution2" : "",
+            "solution3" : ""
+        }
+    ],
+    "13" : [
+        {
+            "name" : "Isariopsis Leaf Spot of Grapes",
+            "solution1" : "",
+            "solution2" : "",
+            "solution3" : ""
+        }
+    ],
+    "14" : [
+        {
+            "name" : "Healthy Grapes",
+            "solution1" : "",
+            "solution2" : "",
+            "solution3" : ""
+        }
+    ],
+    "15" : [
+        {
+            "name" : "Huanglongbing (Citrus greening) of Orange",
+            "solution1" : "Once a tree has citrus greening, there is no cure.",
+            "solution2" : "It is incredibly important to remove trees that have citrus greening disease.",
+            "solution3" : ""
+        }
+    ],
+    "16" : [
+        {
+            "name" : "Peach Bacterial spot",
+            "solution1" : "Use Oxytetracycline as it is generally considered the most effective compound and the least prone to phytotoxicity problems (damage to plant tissue).",
+            "solution2" : "Syllit+captan can be used to control it",
+            "solution3" : "Repeated applications are typically necessary for even minimal disease control."
+        }
+    ],
+    "17" : [
+        {
+            "name" : "Healthy Peach",
+            "solution1" : "",
+            "solution2" : "",
+            "solution3" : ""
+        }
+    ],
+    "18" : [
+        {
+            "name" : "Bacterial Leaf Spot of Pepper",
+            "solution1" : "Using resistant varieties such as, F1 of Autry, Green Flash, Labelle, Ninja, Outsider, Playmaker, Prowler, Raven, Samurai etc.",
+            "solution2" : "Wash seeds for 40 minutes in diluted Clorox (two parts Clorox plus eight parts water) to reduce the bacterial population. ",
+            "solution3" : "Copper sprays can be used to control bacterial leaf spot."
+        }
+    ],
+    "19" : [
+        {
+            "name" : "Healthy Pepper",
+            "solution1" : "",
+            "solution2" : "",
+            "solution3" : ""
+        }
+    ],
+    "20" : [
+        {
+            "name" : "Potato Early blight",
+            "solution1" : "Remove all garden crop residue, a thorough cleanup is essential.",
+            "solution2" : "Rotate crops when possible.",
+            "solution3" : "Control insects as Aphids and White flies can spread diseases."
+        }
+    ],
+    "21" : [
+        {
+            "name" : "Potato Late Blight",
+            "solution1" : "It is controlled by eliminating cull piles and volunteer potatoes, using proper harvesting and storage practices.",
+            "solution2" : "Apply fungicides when necessary.",
+            "solution3" : "Air drainage to facilitate the drying of foliage each day is important."
+        }
+    ],
+    "22" : [
+        {
+            "name" : "Healthy Potato",
+            "solution1" : "",
+            "solution2" : "",
+            "solution3" : ""
+        }
+    ],
+    "23" : [
+        {
+            "name" : "Healthy Raspberry",
+            "solution1" : "",
+            "solution2" : "",
+            "solution3" : ""
+        }
+    ],
+    "24" : [
+        {
+            "name" : "Healthy Soybean",
+            "solution1" : "",
+            "solution2" : "",
+            "solution3" : ""
+        }
+    ],
+    "25" : [
+        {
+            "name" : "Powdery Mildew on Squash",
+            "solution1" : "Sulfur and Stylet oil are effective products for powdery mildew control.",
+            "solution2" : "Neem oil is also an effective combatant for managing powdery mildew.",
+            "solution3" : "Fixed copper fungicides can also be used to manage it."
+        }
+    ],
+    "26" : [
+        {
+            "name" : "Strawberries With Leaf Scorch",
+            "solution1" : "Proper garden sanitation is must needed.",
+            "solution2" : "Frequent establishment of new strawberry transplants.",
+            "solution3" : "Maintain a consistent strawberry harvest, as older plants are more likely to show signs of severe infection."
+        }
+    ],
+    "27" : [
+        {
+            "name" : "Healthy Strawberry",
+            "solution1" : "",
+            "solution2" : "",
+            "solution3" : ""
+        }
+    ],
+    "28" : [
+        {
+            "name" : "Bacterial Spot of Tomato",
+            "solution1" : "A plant with bacterial spot cannot be cured.",
+            "solution2" : "Remove symptomatic plants from the field or greenhouse to prevent the spread of bacteria to healthy plants.",
+            "solution3" : ""
+        }
+    ],
+    "29" : [
+        {
+            "name" : "Tomato Early Blight",
+            "solution1" : "Try resistant varieties, which are new but very worthwhile.",
+            "solution2" : "Grow tomatoes at wide spacing in full sun, so their leaves dry promptly each morning and after rains.",
+            "solution3" : "Avoid wetting the foliage when watering tomatoes."
+        }
+    ],
+    "30" : [
+        {
+            "name" : "Late Blight On Tomatoes",
+            "solution1" : "Sanitation is the first step in controlling tomato late blight.",
+            "solution2" : "Clean up all debris and fallen fruit from the garden area.",
+            "solution3" : "Fungicides that contain maneb, mancozeb, chlorothanolil, or fixed copper can help protect plants from late tomato blight."
+        }
+    ],
+    "31" : [
+        {
+            "name" : "Leaf Mold of Tomato",
+            "solution1" : "When planting, use only certified disease-free seed or treated seed.",
+            "solution2" : "Remove and destroy all crop debris post-harvest.",
+            "solution3" : "Use fans and avoid overhead watering to minimize leaf wetness. Also, stake and prune plants to increase ventilation."
+        }
+    ],
+    "32" : [
+        {
+            "name" : "Septoria Leaf Spot of Tomato",
+            "solution1" : "Pinch off leaves with leaf spots and bury them in the compost pile.",
+            "solution2" : "Do not remove more than a third of the plant's leaves.",
+            "solution3" : "Keep leaves dry to reduce spreading the disease."
+        }
+    ],
+    "33" : [
+        {
+            "name" : "Tomato Red Spider Mite",
+            "solution1" : "Avoid continuous cropping of tomato and related plants which makes it difficult to control red spider mites.",
+            "solution2" : "Spray water regularly on plants to reduce dust, spider mites do well in dusty conditions.",
+            "solution3" : "You can also use miticides which are specific for mites e.g. Dynamec (active ingredient abamectin), Oberon (spiromesifen) or Omite (propargite)."
+        }
+    ],
+    "34" : [
+        {
+            "name" : "Target Spot on Tomatoes",
+            "solution1" : "Rotate crops and don’t plant tomatoes in areas where other disease-prone plants have been located in the past year.",
+            "solution2" : "Water tomato plants in the morning so the leaves have time to dry.",
+            "solution3" : "Remove old plant debris at the end of the growing season, otherwise, the spores will travel from debris to newly planted tomatoes in the following growing season."
+        }
+    ],
+    "35" : [
+        {
+            "name" : "Tomato Yellow Leaf Curl Virus",
+            "solution1" : "Use only virus-and whitefly-free tomato and transplants.",
+            "solution2" : "Imidacloprid or thiamethoxam should be used in transplant houses at least seven days before shipping.",
+            "solution3" : "Transplants should be treated with Capture (bifenthrin) or Venom (dinotefuran) "
+        }
+    ],
+    "36" : [
+        {
+            "name" : "Tomato Mosaic Virus",
+            "solution1" : "There is no cure for the Mosaic Virus.",
+            "solution2" : "Disinfect gardening tools after every use.",
+            "solution3" : "Remove all infected plants and destroy them. Do not put them in the compost pile, as the virus may persist in infected plant matter."
+        }
+    ],
+    "37" : [
+        {
+            "name" : "Healthy Tomato",
+            "solution1" : "",
+            "solution2" : "",
+            "solution3" : ""
+        }
+    ]
+    
+}
