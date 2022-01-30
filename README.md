@@ -1,10 +1,10 @@
 # HoyaHacks2022
 
 
-### Website Link & Demo Link
+### Important Links
 
-Website Link: <a href="">Visit DrLeaf</a><br>
-Demo Link: <a href="">Demo Video</a>  
+Website: <a href="">Visit DrLeaf</a><br>
+Demonstration: <a href="">Check out</a>  
 
 ## Problem Statement
 
