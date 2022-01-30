@@ -1,0 +1,151 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+ .home{
+    background-image:linear-gradient(rgba(0, 100, 0, 0.5),rgba(0, 0, 0, 0.9)) ,url("/static/images/bg.jpg");
+    width: 100%;
+    height:100vh;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+nav{
+    background-color: rgba(255, 255, 255, 0.1);
+    height: 80px;
+    width: 100%;
+    
+  }
+  label.logo{
+    color: white;
+    font-size: 35px;
+    line-height: 80px;
+    padding: 0 0 100px 1px ;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  nav a:hover{
+    background-color: transparent;
+  }
+  nav ul{
+    float: right;
+    margin-right: 20px;
+  }
+  nav ul li{
+
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+  }
+  nav ul li a{
+    text-decoration: null;
+    color: white;
+    font-size: 17px;
+    padding: 7px 13px;
+    border-radius: 3px;
+    text-transform: uppercase;
+  }
+  a.active,a:hover{
+    background: rgba(255, 255, 255, 0.8);
+    color: rgb(48, 156, 66);
+    transition: .5s;
+  }
+  .checkbtn{
+    font-size: 30px;
+    color: white;
+    float: right;
+    line-height: 80px;
+    margin-right: 40px;
+    cursor: pointer;
+    display: none;
+  }
+  #check{
+    display: none;
+  }
+  @media (max-width: 952px){
+    label.logo{
+      font-size: 30px;
+      padding-left: 50px;
+    }
+    nav ul li a{
+      font-size: 16px;
+    }
+  }
+  @media (max-width: 858px){
+    .checkbtn{
+      display: block;
+    }
+    ul{
+      position: fixed;
+      width: 100%;
+      height: 100vh;
+      background: rgba(65, 110, 63, 0.6);
+      top: 80px;
+      left: -100%;
+      text-align: center;
+      transition: all .5s;
+    }
+    nav ul li{
+      display: block;
+      margin: 50px 0;
+      line-height: 30px;
+    }
+    nav ul li a{
+      font-size: 20px;
+      color: rgb(255, 255, 255);
+    }
+    a:hover,a.active{
+      background: none;
+      color: white;
+    }
+    #check:checked ~ ul{
+      left: 0;
+    }
+  }
+.home_content{
+    height: 81vh;
+    align-items: center;
+    padding-top: 12vh;
+    /* background-color: rgba(255, 255, 255, 0.5); */
+}
+.describe{
+    border-radius:15px 50px;
+    background-color: rgba(255, 255, 255, 0.5);
+    margin: auto;
+    padding: 2%;
+    width: 80%;
+    align-items: center;
+    text-align: center;
+}
+.foot{
+    
+    height: 7.8vh;
+    background: rgba(255, 255, 255, 0.1);
+    color: white;
+    text-align: center;
+    padding-top: 1rem;
+}
+.rules,.inp{
+  background-color: rgba(255, 255, 255, 0.5);
+  margin: auto;
+  
+  width: 50%;
+  align-items: center;
+  text-align: center;
+}
+.rules{
+  border-radius: 30px 30px 0 0;
+  padding: 2%;
+}
+.inp{
+  border-radius: 0 0 30px 30px;
+  padding:0 1% 2% 1%;
+}
+.product_content{
+  padding-top: 15vh;
+}
+.frm{
+  align-items:center;
+  text-align: center;
+}
