@@ -12,6 +12,7 @@ Here comes our product "DrLeaf" which not only makes the work easier but also re
 
 * We built our prediction model using machine learning and deep learning.
 * We have prepared our model using 87000 different images of affected plants. We collected this dataset from Kaggle.
+* Our model predicts with an accuracy of 99%.
  
  
 # Project Details
