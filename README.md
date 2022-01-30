@@ -51,7 +51,7 @@ Here comes our product **DrLeaf** which not only makes the work easier but also 
 
     ```bash
     git clone https://github.com/AniruddhA-Omni/HoyaHacks2022.git
-    cd GestureControl
+    cd HoyaHacks2022
     ```
 2. Install dependent packages
     ```bash
